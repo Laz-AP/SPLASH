@@ -22,7 +22,7 @@ This setup empowers non-technical stakeholders to review analysis outputs and pr
    - **Speckle Account**: Required for accessing Speckle's platform.
    - **Speckle Revit Connector**: Enables models to be pushed from Revit to Speckle. [Speckle Manager](https://speckle.guide/#speckle-manager)
    - **Grasshopper Analysis Scripts**: Used for analyzing model updates and triggering automated analysis.
-   - **Karamba3D**: Used for automated structural analysis.
+
 ### Setup Instructions
 1. **Create a Speckle Project**: [Speckle Setup Guide](https://speckle.guide/workspaces/projects.html)
 2. **Export Revit Model to Speckle**: Use the Speckle Revit **Connector** to send your model to Speckle.
