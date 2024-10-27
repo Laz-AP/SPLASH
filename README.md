@@ -1,7 +1,9 @@
-# [Project Name Placeholder]
-![Project Logo](path/to/logo.png)
+<a href="https://github.com/team-speckle-automation/SPLASH">
+    <img src="https://github.com/team-speckle-automation/SPLASH/blob/main/Assets/Splash_logo.png" alt="SPLASH Logo" width="200" height="200">
+</a>
+
 ## Project Overview
-Project created for **AEC Tech Hackathon 2024** in New York.
+SPLASH! is a project created for **AEC Tech Hackathon 2024** in New York.
 This project aims to streamline model analysis and enhance feedback processes for AEC projects. By integrating Speckle, we provide stakeholders easy web-based access to 3D model analysis results that update in real-time.
 
 This setup empowers non-technical stakeholders to review analysis outputs and provide feedback directly, without needing specialized software like Revit or Rhino.
@@ -30,7 +32,9 @@ This setup empowers non-technical stakeholders to review analysis outputs and pr
 ## :movie_camera: Demo
 Below is a GIF walkthrough illustrating each step, from model sync to viewing analysis results.
 ![Demo](demo.gif)
-[Speckle Project](https://speckle.systems/viewer)
+
+[Speckle Project](https://app.speckle.systems/projects/0a088653cb/models/05fb82a423)
+
 [Presentation here](link_to_slides)
 ## :crystal_ball: Future Work
 - **Power BI Integration**: Expand data visualization with Power BI dashboards.
