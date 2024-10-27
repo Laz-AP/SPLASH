@@ -4,7 +4,7 @@
 
 ## Project Overview
 SPLASH! is a project created for **AEC Tech Hackathon 2024** in New York.
-This project aims to streamline model analysis and enhance feedback processes for AEC projects. By integrating Speckle, we provide stakeholders easy web-based access to 3D model analysis results that update in real-time.
+This project aims to streamline model analysis and enhance feedback processes for AEC projects. By integrating Speckle, we provide stakeholders easy web-based access to 3D model analysis results that **update in real-time!**.
 
 This setup empowers non-technical stakeholders to review analysis outputs and provide feedback directly, without needing specialized software like Revit or Rhino.
 ### What Pain Points Are We Solving?
@@ -16,7 +16,7 @@ This setup empowers non-technical stakeholders to review analysis outputs and pr
 - **Speckle**: Data exchange platform for AEC projects.
 - **Revit**: BIM software with Speckle connector.
 - **Grasshopper**: Visual programming for parametric design.
-- **Karamba3D**: Parametric engineering tool for FEA design.
+- **Grasshopper plugins:** like Karamba3D or Ladybug for design analysis.
 ## Getting Started :rocket:
 ### Prerequisites
    - **Speckle Account**: Required for accessing Speckle's platform.
