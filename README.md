@@ -36,7 +36,7 @@ Here is a GIF walkthrough illustrating each step, from model sync to viewing ana
 
 [Speckle Project](https://app.speckle.systems/projects/0a088653cb/models/05fb82a423)
 
-[Presentation here](link_to_slides)
+[Presentation here](https://github.com/team-speckle-automation/SPLASH/blob/main/Presentation/Splash_AECtech2024NYC.pdf)
 ## :crystal_ball: Future Work
 - **Power BI Integration**: Expand data visualization with Power BI dashboards.
 - **Expanded Analysis Capabilities**: Extend Speckle Compute to support more complex analyses.
