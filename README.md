@@ -30,8 +30,9 @@ This setup empowers non-technical stakeholders to review analysis outputs and pr
 4. **Configure Analysis**: Set up Grasshopper with Karamba3D to run the desired analysis automatically when syncing/saving from Revit.
 5. **View and Provide Feedback**: Go to your online Speckle project viewer to review results and leave feedback.
 ## :movie_camera: Demo
-Below is a GIF walkthrough illustrating each step, from model sync to viewing analysis results.
-![Demo](demo.gif)
+Here is a GIF walkthrough illustrating each step, from model sync to viewing analysis results.
+
+![Demo](https://github.com/team-speckle-automation/SPLASH/blob/main/Demos/Speckle_Composite_Analysis.gif)
 
 [Speckle Project](https://app.speckle.systems/projects/0a088653cb/models/05fb82a423)
 
@@ -42,7 +43,7 @@ Below is a GIF walkthrough illustrating each step, from model sync to viewing an
 ---
 ## :busts_in_silhouette: Team
    - **Agustina Aboy** [@agusaboy](https://github.com/agusaboy)
-   - **Anik**
+   - **Anik Alam** 
    - **Erika Santos** [@erikasantosrocha](https://github.com/erikasantosrocha)
    - **Julio Sarachaga** [@julillosamaral](https://github.com/ulillosamaral)
    - **Kent Pretorius** 
@@ -51,4 +52,4 @@ Below is a GIF walkthrough illustrating each step, from model sync to viewing an
    - **Stephen Prendergast** [@sgcprender](https://github.com/sgcprender)
    - **Wade Vollink** [@Wizard-Wade](https://github.com/Wizard-Wade)
 
-Proof We Were Here: [Photos from the Hackathon](https://github.com/team-speckle-automation/AECTech2024/tree/main/Assets/Photos)
+Proof We Were Here: [Photos from the Hackathon](https://github.com/team-speckle-automation/AECTech2024/tree/main/Photos)
