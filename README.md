@@ -30,7 +30,7 @@ This setup empowers non-technical stakeholders to review analysis outputs and pr
 4. **Configure Analysis**: Set up Grasshopper with Karamba3D to run the desired analysis automatically when syncing/saving from Revit.
 5. **View and Provide Feedback**: Go to your online Speckle project viewer to review results and leave feedback.
 ## :movie_camera: Demo
-Here is a GIF walkthrough illustrating each step, from model sync to viewing analysis results.
+Here is a GIF walkthrough illustrating each step, from model sync to viewing analysis results. You can find more [here](https://github.com/team-speckle-automation/SPLASH/tree/main/Demos)
 
 ![Demo](https://github.com/team-speckle-automation/SPLASH/blob/main/Demos/Speckle_Composite_Analysis.gif)
 
