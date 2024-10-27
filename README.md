@@ -51,4 +51,4 @@ Below is a GIF walkthrough illustrating each step, from model sync to viewing an
    - **Stephen Prendergast** [@sgcprender](https://github.com/sgcprender)
    - **Wade Vollink** [@Wizard-Wade](https://github.com/Wizard-Wade)
 
-Proof We Were Here: [Photos from the Hackathon](https://github.com/team-speckle-automation/AECTech2024/tree/main/Assets/photos)
+Proof We Were Here: [Photos from the Hackathon](https://github.com/team-speckle-automation/AECTech2024/tree/main/Assets/Photos)
